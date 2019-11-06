@@ -1,2 +1,1 @@
-# GLITZ-COSMETICS
-Creating a website for cosmetics 
+Glitz cosmestics is a private owned company for cosmetics. We offer both tutorials online,one on one and also we sell the makeup product like GLITZ foundation,concealer,lipsticks and eyeshadow palletes.This website will help both first timers and those who have already been here to sign in the page or logging in.WE cater for all events like weddings ,birthday parties and daily makeup for all age groups.Glitz cosmetics is the way to glow
