@@ -1,1 +1,15 @@
-Glitz cosmestics is a website for cosmetics, we offer  tutorials online,one on one and also we sell the makeup products.We sell the best makeup products for all age groups.WE cater for all events like weddings ,birthday parties and daily makeup for all age groups.Glitz cosmetics is the way to glow
+# Glitz cosmestics 
+Is a website for cosmetics, we offer  tutorials online,one on one and also we sell the makeup products.We sell the best makeup products for all age groups.WE cater for all events like weddings ,birthday parties and daily makeup for all age groups.Glitz cosmetics is the way to glow
+
+## Feature
+* Home
+* About Us
+* Services
+* Contact 
+
+## Technology Used:
+The languages I used and libraries
+
+* HTML
+* CSS
+* BOOTSRAP
