@@ -294,23 +294,23 @@
 					<div class="col-xl-4 col-lg-5 offset-xl-1 offset-lg-0 offset-md-0">
 						<div class="footer-widget contact-widget">
 							<h4 class="fw-title"><i class="flaticon-039-make-up"></i>Make an appointment</h4>
-							<form class="fw-contact-form">
+		<form class="fw-contact-form" action="https://formspree.io/mufaro1975@outlook.com" method="POST">
 								<div class="cf-inputs">
 									<div class="cf-input">
-										<input type="text" placeholder="Your Name">
+										<input type="text"name="name" id="name" placeholder="Your Name">
+									</div>
+										<div class="cf-input">
+										<input type="text" class="cf-input" name="email" id="email" placeholder="Your E-mail">
 									</div>
 									<div class="cf-input">
-										<input type="text" class="cf-input" placeholder="Your E-mail">
-									</div>
-									<div class="cf-input">
-										<input type="text" class="cf-input" placeholder="Service you need">
+										<input type="text" class="cf-input" name="service" id="service" placeholder="Service you need">
 									</div>
 									<div class="cf-input">
 										<input type="text" class="cf-input datepicker" placeholder="Date">
 									</div>
 								</div>
 								<textarea placeholder="Your Message"></textarea>
-								<button class="site-btn">Submit</button>
+								<button id="submit" type="submit" class="site-btn">Submit</button>
 							</form>
 						</div>
 					</div>

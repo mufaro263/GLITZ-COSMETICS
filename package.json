@@ -1,22 +1,38 @@
 {
-  "name": "Diva",
+  "name": "glitzcosmetics",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "<h1><a href=\"https://mufaro263.github.io/GLITZ-COSMETICS/\">GLITZ-COSMETICS</a></h1>",
+  "main": "main.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "init": "^0.1.2",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.12",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
   },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mufaro263/GLITZ-COSMETICS.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-autoprefixer": "^3.0.4",
-    "grunt-browser-sync": "^2.2.0",
-    "grunt-contrib-cssmin": "^2.2.1",
-    "grunt-contrib-imagemin": "^2.0.1",
-    "grunt-contrib-sass": "^1.0.0"
+  "bugs": {
+    "url": "https://github.com/mufaro263/GLITZ-COSMETICS/issues"
   },
-  "dependencies": {
-    "grunt-contrib-watch": "^1.0.0"
-  }
+  "homepage": "https://github.com/mufaro263/GLITZ-COSMETICS#readme"
 }
